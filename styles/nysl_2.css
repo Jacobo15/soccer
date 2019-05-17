@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header {
+    height: 300px;
+    background-image: url(/imagenes/design2_image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 78px;
+}
+
+.logo {
+    position: absolute;
+    top: 360px;
+    left: 20px;
+
+}
+
+.title {
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
+h2 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-family: cursive;
+    border: 2px solid black;
+}
+
+nav {
+    position: absolute;
+    top: 75px;
+    right: 50px;
+
+}
+
+.dentro {
+    display: inline-block;
+    margin-bottom: 30px;
+    border: none;
+
+}
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    background-color: darkslateblue;
+    box-shadow: 3px 3px black;
+    border: solid black 2px;
+}
+
+
+
+.derecha1 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 900px;
+}
+
+.derecha2 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+
+.cursiva {
+    font-style: italic;
+}
+
+.activado {
+    background: green;
+
+}
+
+.dentro {
+    display: inline-block;
+    margin-bottom: 30px;
+    color: blue;
+    background-color: white;
+    text-decoration: underline;
+    box-shadow: none;
+
+}

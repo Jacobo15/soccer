@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+header {
+    height: 245px;
+    background-image: url(/imagenes/design1_image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+    top: 205px;
+    right: 140px;
+}
+
+.title{
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: cursive;    
+}
+
+nav{
+    display:inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+a{
+    display:block;
+    margin-bottom: 45px;
+    text-decoration: none;
+}
+
+.derecha1{
+   display:inline-block;
+    margin-top: 20px;
+    margin-left: 120px;
+    width: 650px;
+}
+.derecha2{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.cursiva{
+    font-style:italic;    
+}
+.dentro{
+    display: inline-block;
+    text-decoration: underline;
+} 
